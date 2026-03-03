@@ -1,28 +1,22 @@
-🚚 Fleet & Asset Management System - Oracle APEX
-Acest proiect reprezintă o soluție completă pentru gestionarea flotelor auto și a activelor, dezvoltată folosind Oracle APEX și Oracle Cloud Database. Este conceput pentru a oferi vizibilitate completă asupra vehiculelor, șoferilor și operațiunilor de transport.
+Fleet and Asset Management System
+A comprehensive solution for managing vehicle fleets and assets, built with Oracle APEX and Oracle Cloud Database. This application provides centralized tracking of vehicles, drivers, and transport operations.
 
-🌟 Caracteristici Cheie
-Monitorizare Flotă: Gestionarea detaliată a vehiculelor și statusului acestora.
+Key Features
+Fleet Tracking: Detailed monitoring of vehicle status and allocations.
+Driver Management: Centralized database for fleet personnel.
+Analytics Dashboard: Visual performance metrics using aggregate charts.
+Alert System: Automated tracking for maintenance and incidents.
 
-Management Șoferi: Bază de date centralizată pentru personalul navigant.
+Technical Stack
+Backend: Oracle SQL & PL/SQL (Triggers for automation, Packages for business logic).
+Frontend: Oracle APEX (Interactive Reports, Faceted Search, Validated Forms).
+Architecture: Relational database schema optimized with indexes and sequences.
 
-Dashboard Statistici: Vizualizarea indicatorilor de performanță prin grafice agregate.
-
-Sistem de Alerte: Monitorizarea automată a mentenanței.
-
-🛠️ Detalii Tehnice
-Backend: Oracle SQL & PL/SQL (Triggere pentru automatizare, Pachete pentru logica de business).
-
-Interfață: Oracle APEX (Interactive Reports, Faceted Search, Formulare cu validări).
-
-Arhitectură: Schema relațională optimizată cu indecși și secvențe.
-
-📁 Conținut Repository
-fleetandasset_script.sql: Script-ul DDL complet pentru structura bazei de date.
-
-f197082.sql: Export-ul integral al aplicației APEX.
+Repository Contents
+fleetandasset_script.sql: Complete DDL script for the database structure.
+f197082.sql: Full export of the APEX application interface.
 
 🔗DEMO: 
 https://oracleapex.com/ords/r/fleetandasset/fleet-management-system
-Utilizator: GUEST
-Parola: Qq123$567*90
+User: GUEST
+Password: Qq123$567*90
